@@ -6,9 +6,9 @@ When I am not at work, you can often find me coding, learning new skills, and ho
 
 I love working with different technologies and platforms and I am currently working on these:
 
-SQL / PostgreSQL 
-Python
-R
-Tableau
+* SQL / PostgreSQL 
+* Python
+* R
+* Tableau
 
 
