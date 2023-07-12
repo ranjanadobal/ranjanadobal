@@ -6,7 +6,7 @@ I completed Master of Science in Business Administration (MSBA- STEM) degree fro
 
 I have expertise in SQL, Python, R, predictive modeling, A/B Testing and statistical methods. I have experience in extracting, cleaning, and analyzing large datasets, designing and running experiments using causal inference, descriptive statistics, exploratory data analysis, data visualization, and statistical modeling. 
 
-In addition, I have 7 years of strong professional experience in forecasting, and data analytics in market-leading multinational companies such as Procter and Gamble (P&G), Unilever, and Suzuki Motor Japan. 
+In addition, I have strong professional experience in forecasting, and data analytics in market-leading multinational companies such as Procter and Gamble (P&G), Unilever, and Suzuki Motor Japan. 
 
 # Work Experience
 * Foster School of Business, University of Washington[2020-2023]
