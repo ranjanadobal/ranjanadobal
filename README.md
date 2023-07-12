@@ -14,7 +14,7 @@ I completed Master of Science in Business Administration (MSBA- STEM) degree fro
 # Education
 * MSBA(Marketing and Data Science) Foster School of Business, University of Washington, Seattle, US[2020-2023]
 * MBA(Operations and Management) S P Jain Institute of Management and Research (SPJIMR), Mumbai, India[2011-2013]
-* BTech(Electronics and Communication) Indira Gandhi Delhi Technical University for Women, New Delhi, India[2004-2008]
+* BTech(Electronics and Communication Engineering) Indira Gandhi Delhi Technical University for Women, New Delhi, India[2004-2008]
 
 I am passionate about coding, and learning new skills in various areas including ✳️ Machine Learning, ✳️ Data Science, and ✳️ Data Visualization projects.
 I love working with different technologies and platforms and I am currently working on these:
