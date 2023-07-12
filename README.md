@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**ranjanadobal/ranjanadobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ranjana Dobal and have experience working in data analytics, research, and project management in market-leading multinational companies and universities. 
 
-Here are some ideas to get you started:
+When I am not at work, you can often find me coding, learning new skills, and honing my skills on various areas including ✳️ Machine Learning, and ✳️ Data Science projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love working with different technologies and platforms and I am currently working on these:
+
+SQL / PostgreSQL 
+Python
+R
+Tableau
+
+
