@@ -21,7 +21,7 @@ In addition, I have strong professional experience in forecasting, and data anal
 * BTech(Electronics and Communication Engineering) Indira Gandhi Delhi Technical University for Women, New Delhi, India[2004-2008]
 
 I am passionate about coding, and learning new skills in various areas including ✳️ Machine Learning, ✳️ Data Science, and ✳️ Data Visualization projects.
-I love working with different technologies and platforms and I am currently working on these:
+I love working with different technologies and platforms and I am currently working on:
 
 * SQL / PostgreSQL 
 * Python
