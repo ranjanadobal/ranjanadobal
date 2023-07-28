@@ -27,7 +27,7 @@ I love working with different technologies and platforms and I am currently work
 * Python
 * R
 * Tableau
-* Machine Learning
+
 
   
 
