@@ -12,7 +12,7 @@ In addition, I have strong professional experience in forecasting, and data anal
 * Foster School of Business, University of Washington[2020-2023]
 * Haas School of Business, University of California Berkeley [2019-2020]
 * S P Jain Institute of Management and Research (SPJIMR)[2018-2019]
-* Market Planning Leader at Procter & Gamble (P&G)[2013-2017]
+* Sales Forecasting Leader at Procter & Gamble (P&G)[2013-2017]
 * Research and Design Engineer at Maruti Suzuki India Limited (Suzuki Motor Corporation)[2008-2011]
 
 # Education
