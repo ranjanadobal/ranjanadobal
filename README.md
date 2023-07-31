@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! I am Ranjana Dobal and I have a background in ECE Engineering and 11+ years experience in leveraging analytical expertise to drive data-driven insights for $250 MM product category in market-leading multinational companies such as Procter and Gamble and Suzuki Motor Corporation. Experienced in data analysis, research, data modeling, sales forecasting, and project management. Advanced SQL, Python, R, statistics, machine learning, and Tableau skills to present and drive data-based decisions. 
+Hello! I am Ranjana Dobal and I have a background in ECE Engineering with 11+ years experience in leveraging analytical expertise to drive data-driven insights for $250 MM product category in market-leading multinational companies such as Procter and Gamble and Suzuki Motor Corporation. Experienced in data analysis, research, data modeling, sales forecasting, and project management. Advanced SQL, Python, R, statistics, machine learning, and Tableau skills to present and drive data-based decisions. 
 
 I completed Master of Science (MSBA- STEM) from Foster School of Business, University of Washington, Seattle. I have research experience at Foster School of Business, University of Washington and Haas School of Business, University of California, Berkeley. 
 
