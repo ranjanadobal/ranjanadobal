@@ -1,6 +1,7 @@
 # Introduction
 
 Hello, I am Ranjana Dobal, and I am a Data Scientist. I completed my MS from the University of Washington, Seattle, with a background in ECE Engineering and an MBA from top schools in India. With over 11 years of analytical expertise, I’ve driven data-driven insights for a $250 MM product category in market-leading companies such as Procter and Gamble, Unilever, and Suzuki Motors Japan. I have advanced skills in SQL, Python, R, statistics, machine learning, Google Analytics, and Tableau, enabling me to effectively present and drive data-based decisions.
+
 I completed my Master of Science (MSBA, STEM) from the University of Washington, Seattle. My research experience spans the University of Washington, Seattle, and the University of California, Berkeley.
 My expertise includes: 
 * SQL
