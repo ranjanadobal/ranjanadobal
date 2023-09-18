@@ -16,9 +16,9 @@ In addition, I have substantial professional experience in forecasting, data ana
 
 
 # Work Experience
-* Foster School of Business, University of Washington, Seattle [2020-2023]
-* Haas School of Business, University of California Berkeley [2019-2020]
-* S P Jain Institute of Management and Research (SPJIMR) [2018-2019]
+* Graduate Research Assistant at Foster School of Business, University of Washington, Seattle [2020-2023]
+* Research Assistant at Haas School of Business, University of California Berkeley [2019-2020]
+* Research Fellow at S P Jain Institute of Management and Research (SPJIMR) [2018-2019]
 * Market Planning Manager at Procter & Gamble (P&G)[2013-2017]
 * R&D Engineer at Maruti Suzuki India Limited (Suzuki Motor Corporation)[2008-2011]
 
