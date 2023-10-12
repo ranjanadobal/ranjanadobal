@@ -16,15 +16,15 @@ In addition, I have substantial professional experience in forecasting, data ana
 
 
 # Work Experience
-* Graduate Research Assistant at University of Washington, Seattle [2020-2023]
-* Research Assistant at University of California, Berkeley [2018-2020]
-* Market Planning Manager (forecasting) at Procter & Gamble (P&G)[2013-2017]
-* R&D Engineer at Maruti Suzuki India Limited (Suzuki Motor Corporation Japan)[2008-2011]
+* Graduate Research Assistant, University of Washington, Seattle [2020-2023]
+* Research Assistant, University of California, Berkeley [2018-2020]
+* Market Planning Manager(Forecasting), Procter & Gamble (P&G) [2013-2017]
+* R&D Engineer, Maruti Suzuki India Limited (Suzuki Motor Corporation, Japan) [2008-2011]
 
 # Education
-* MSBA (Master of Science in Business and Data Science), University of Washington, Seattle, US[2020-2023]
-* MBA(Operations and Management), S P Jain Institute of Management and Research (SPJIMR), Mumbai, India[2011-2013]
-* BTech (Electronics and Communication Engineering), Indira Gandhi Delhi Technical University for Women, New Delhi, India[2004-2008]
+* MSBA(Master of Science in Business and Data Science), University of Washington, Seattle, US [2020-2023]
+* MBA(Operations and Management), S P Jain Institute of Management and Research (SPJIMR), Mumbai, India [2011-2013]
+* BTech(Electronics and Communication Engineering), Indira Gandhi Delhi Technical University for Women, New Delhi, India [2004-2008]
 
 I am passionate about coding, problem solving, and learning new skills in areas including ✳️ Machine Learning, ✳️ Data Science, and ✳️ Data Visualization.
 I love working with different technologies and platforms and I am currently working on:
