@@ -1,6 +1,6 @@
 # Introduction
 
-Hello, I am Ranjana Dobal, and I am a Data Science and Analytics professional. I completed my MS from the University of Washington, Seattle, with a background in ECE Engineering and an MBA from top schools in India. With over 11 years of analytical expertise, I’ve driven data-driven insights for a $250 MM product category in market-leading companies such as Procter and Gamble, Unilever, and Suzuki Motors Japan. I have advanced skills in SQL, Python, R, statistics, machine learning, Google Analytics, and Tableau, enabling me to effectively present and drive data-based decisions.
+Hello, I am Ranjana Dobal, and I am a Data Science and Analytics professional. I am an experienced Data Analyst with 11 years of expertise, spanning roles in Fortune 500 companies and prestigious global universities. With over 11 years of analytical expertise, I’ve driven data-based insights for a $250 Million product category in market-leading companies such as Procter and Gamble, Unilever, and Suzuki Motors Japan. I hold an MS from the University of Washington, Seattle, with an MBA and an Electronics and Communication Engineering (ECE) from top schools in India. I have advanced skills in SQL, Python, R, statistics, machine learning, Google Analytics, and Tableau, enabling me to effectively present and drive data-based decisions.
 
 I completed my Master of Science (MSBA, STEM) from the University of Washington, Seattle. My research experience spans the University of Washington, Seattle, and the University of California, Berkeley.
 My expertise includes: 
@@ -16,15 +16,15 @@ In addition, I have substantial professional experience in forecasting, data ana
 
 
 # Work Experience
-* Graduate Research Assistant at Foster School of Business, University of Washington, Seattle [2020-2023]
-* Research Assistant at Haas School of Business, University of California Berkeley [2018-2020]
-* Market Planning Manager at Procter & Gamble (P&G)[2013-2017]
-* R&D Engineer at Maruti Suzuki India Limited (Suzuki Motor Corporation)[2008-2011]
+* Graduate Research Assistant at University of Washington, Seattle [2020-2023]
+* Research Assistant at University of California, Berkeley [2018-2020]
+* Market Planning Manager (forecasting) at Procter & Gamble (P&G)[2013-2017]
+* R&D Engineer at Maruti Suzuki India Limited (Suzuki Motor Corporation Japan)[2008-2011]
 
 # Education
 * MSBA, Foster School of Business, University of Washington, Seattle, US[2020-2023]
 * MBA(Operations and Management), S P Jain Institute of Management and Research (SPJIMR), Mumbai, India[2011-2013]
-* BTech(Electronics and Communication Engineering), Indira Gandhi Delhi Technical University for Women, New Delhi, India[2004-2008]
+* BTech (Electronics and Communication Engineering), Indira Gandhi Delhi Technical University for Women, New Delhi, India[2004-2008]
 
 I am passionate about coding, problem solving, and learning new skills in various areas including ✳️ Machine Learning, ✳️ Data Science, and ✳️ Data Visualization.
 I love working with different technologies and platforms and I am currently working on:
