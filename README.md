@@ -14,7 +14,6 @@ My expertise includes:
 I excel in extracting, cleaning, and analyzing large datasets, designing and executing experiments using causal inference, performing descriptive statistics and exploratory data analysis, creating data visualizations, and developing statistical models using machine learning.
 In addition, I have substantial professional experience in forecasting, data analytics, research, and program management in market-leading multinational companies such as Procter and Gamble (P&G), Unilever, and Suzuki Motor Corporation, Japan.
 
-
 # Work Experience
 * Graduate Research Assistant, University of Washington, Seattle [2020-2023]
 * Research Assistant, University of California, Berkeley [2018-2020]
